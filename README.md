@@ -15,7 +15,7 @@ Github:
 
 NPM Packages:
 
-    npm i request && npm i delay && npm i chalk && npm i path
+    npm i request && npm i delay && npm i chalk && npm i path && npm i moment
     
 ## Usage
 
