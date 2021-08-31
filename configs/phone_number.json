@@ -1,0 +1,7 @@
+{
+    "found": "Phone numbers found in this file: ",
+    "no_found": "No phone numbers found in this file.",
+    "description": "Checking this file for any phone numbers.",
+    "regex": "^[+]?(?:\\(\\d+(?:\\.\\d+)?\\)|\\d+(?:\\.\\d+)?)(?:[ -]?(?:\\(\\d+(?:\\.\\d+)?\\)|\\d+(?:\\.\\d+)?))*(?:[ ]?(?:x|ext)\\.?[ ]?\\d{1,5})?$",
+    "regex_extra": "gim"
+}
