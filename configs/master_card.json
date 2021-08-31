@@ -1,0 +1,7 @@
+{
+    "found": "MasterCards found in this file: ",
+    "no_found": "No MasterCards found in this file.",
+    "description": "Checking this file for any MasterCards.",
+    "regex": "^5[1-5]\\d{14}$",
+    "regex_extra": "gim"
+}
